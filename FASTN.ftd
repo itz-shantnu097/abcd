@@ -1,15 +1,15 @@
 -- import: fastn
 
--- fastn.package: <user_name>.github.io/<repo_name>
-favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
+-- fastn.package: itz-shantnu097.github.io/abcd
+favicon: /-/itz-shantnu097.github.io/abcd/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
 
--- fastn.auto-import: <user_name>.github.io/<repo_name>/FASTN/ds
--- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
--- fastn.auto-import: <user_name>.github.io/<repo_name>/components/profile
--- fastn.auto-import: <user_name>.github.io/<repo_name>/components/social
+-- fastn.auto-import: itz-shantnu097.github.io/abcd/FASTN/ds
+-- fastn.auto-import: itz-shantnu097.github.io/abcd/assets
+-- fastn.auto-import: itz-shantnu097.github.io/abcd/components/profile
+-- fastn.auto-import: itz-shantnu097.github.io/abcd/components/social
 -- fastn.auto-import: doc-site
 
